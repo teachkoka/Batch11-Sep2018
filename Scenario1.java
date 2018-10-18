@@ -1,5 +1,7 @@
 package com.bell.b11.day8.exceptions;
 
+
+
 public class Scenario1 {
 
     public static void main(String[] args){
